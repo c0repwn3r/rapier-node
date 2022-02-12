@@ -1,9 +1,9 @@
 {
   "name": "rapier-node",
-  "version": "0.7.7",
+  "version": "0.11.1",
   "main": "index.js",
-  "repository": "git@github.com:SupremeTechnopriest/rapier-node.git",
-  "author": "Randy Lebeau <randylebeau@gmail.com>",
+  "repository": "git@github.com:c0repwn3r/rapier-node.git",
+  "author": "c9repwn3r <core@coredoes.dev>",
   "license": "Apache 2.0",
   "type": "module",
   "private": true,
