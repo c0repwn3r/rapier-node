@@ -1,6 +1,6 @@
 {
   "name": "rapier-node",
-  "version": "0.11.1",
+  "version": "0.7.6",
   "main": "index.js",
   "repository": "git@github.com:c0repwn3r/rapier-node.git",
   "author": "c9repwn3r <core@coredoes.dev>",
